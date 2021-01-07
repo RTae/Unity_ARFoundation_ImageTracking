@@ -5,7 +5,7 @@
 
   
 
-:framed_picture: Implement Image Tracking with Augmented Reality by use AR Foundation from Unity. If have any problem open the issue thank you :pray:
+:framed_picture: Implement Image Tracking with Augmented Reality by use AR Foundation from Unity. If you have any problem open the issue thank you :pray:
 
   
   
