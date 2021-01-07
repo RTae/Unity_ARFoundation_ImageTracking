@@ -36,8 +36,8 @@ MonoBehaviour:
     m_Name: Capsule
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5708120026967917294
-      m_GuidHigh: 11937964847598154411
+      m_GuidLow: 5555961164021953903
+      m_GuidHigh: 2593491985488789693
     m_SerializedTextureGuid:
       m_GuidLow: 0
       m_GuidHigh: 0
