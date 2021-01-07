@@ -35,3 +35,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: Capsule
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5708120026967917294
+      m_GuidHigh: 11937964847598154411
+    m_SerializedTextureGuid:
+      m_GuidLow: 0
+      m_GuidHigh: 0
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: 
+    m_Texture: {fileID: 0}
