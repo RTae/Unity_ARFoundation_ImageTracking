@@ -43,7 +43,7 @@
 
  ![3.png (717×77) (raw.githubusercontent.com)](https://raw.githubusercontent.com/RTae/Unity_ImageTracking/main/Example/3.png)
 
-:three: Open this Project
+:three: Open this project
 
  ![4.png (936×230) (raw.githubusercontent.com)](https://raw.githubusercontent.com/RTae/Unity_ImageTracking/main/Example/4.png)
 
