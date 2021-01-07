@@ -85,8 +85,9 @@
 
 :keycap_ten: Last, you need to configure max nunmber of moving images in AR Track Image Manager (It's up to your project and device that you use can handle). Done !!!
 
-  
-  
+## :fire: Demo
+![Example](https://github.com/RTae/Unity_ARFoundation_ImageTracking/blob/main/Example/Example.gif)
+
 
 ## :hammer: How to build (Android)
 
