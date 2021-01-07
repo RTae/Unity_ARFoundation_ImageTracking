@@ -47,7 +47,7 @@
 
  ![4.png (936×230) (raw.githubusercontent.com)](https://raw.githubusercontent.com/RTae/Unity_ImageTracking/main/Example/4.png)
 
-:four: You will see assets folder that contain content of this project and we will focus on three folders.
+:four: You will see Assets folder that contain content of this project and we will focus on three folders.
 
   
 
@@ -83,7 +83,7 @@
 
   
 
-:keycap_ten: Last, you need to configure max nunmber of moving images in AR Track Image Manager (It's up to your project and device that you use can handle). Done !!!
+:keycap_ten: Last, you need to configure max nunmber of moving images in AR Track Image Manager (It's up to your project and your device that could handle). Done !!!
 
 ## :fire: Demo
 ![Example](https://github.com/RTae/Unity_ARFoundation_ImageTracking/blob/main/Example/Example.gif)

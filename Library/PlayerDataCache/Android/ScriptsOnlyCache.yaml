@@ -11,6 +11,8 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.ARFoundation.ARSession
     - UnityEngine.XR.ARFoundation.ARSessionOrigin
     - UnityEngine.XR.ARFoundation.ARTrackedImageManager
+    Unity.XR.ARSubsystems.Editor.dll:
+    - UnityEditor.XR.ARSubsystems.XRReferenceImageLibraryEditor
     Unity.XR.ARSubsystems.dll:
     - UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
     Unity.XR.Management.Editor.dll:
@@ -18,8 +20,6 @@ ScriptsOnlyBuild:
     Unity.XR.Management.dll:
     - UnityEngine.XR.Management.XRGeneralSettings
     - UnityEngine.XR.Management.XRManagerSettings
-    Unity.XR.WindowsMixedReality.Editor.dll:
-    - UnityEditor.XR.WindowsMR.WindowsMRPackageSettings
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -59,27 +59,27 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11302}
+      Script: {instanceID: 11300}
     - Class: 114
-      Script: {instanceID: 12700}
+      Script: {instanceID: 12660}
     - Class: 114
-      Script: {instanceID: 13150}
+      Script: {instanceID: 12670}
     - Class: 114
-      Script: {instanceID: 13262}
+      Script: {instanceID: 13114}
     - Class: 114
-      Script: {instanceID: 13508}
+      Script: {instanceID: 13226}
     - Class: 114
-      Script: {instanceID: 13690}
+      Script: {instanceID: 13466}
     - Class: 114
-      Script: {instanceID: 13906}
+      Script: {instanceID: 13640}
     - Class: 114
-      Script: {instanceID: 14090}
+      Script: {instanceID: 13848}
     - Class: 114
-      Script: {instanceID: 14112}
+      Script: {instanceID: 14028}
     - Class: 114
-      Script: {instanceID: 14142}
+      Script: {instanceID: 14050}
     - Class: 114
-      Script: {instanceID: 16212}
+      Script: {instanceID: 14080}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 136
@@ -427,6 +427,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.InteractiveTutorials.Core.Scripts.dll
     namespaceName: 
     className: SceneObjectGUIDComponent
+  - hash:
+      serializedVersion: 2
+      Hash: 055b2cb90360cf281513462fabe26165
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MultiImageTracking
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -793,19 +799,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 055b2cb90360cf281513462fabe26165
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: MultiImageTracking
-  - hash:
-      serializedVersion: 2
-      Hash: 13ba1b8624444f9ef13d8b875356beb1
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: NumberManager
   platform: 13
   scenePathNames:
   - Assets/Scenes/MultipleImageTracking.unity
-  playerPath: D:/unity/workshop/ARMultipleImageTracking/Builds/MultipleImageTracking_1.0.9.apk
+  playerPath: D:/unity/workshop/ARMultipleImageTracking/Builds/MultipleImageTracking_1.0.10.apk
